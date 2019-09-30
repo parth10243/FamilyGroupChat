@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>741538105747-dt545q5bbuuq4s6mu7mnbcipa9klf12i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.741538105747-dt545q5bbuuq4s6mu7mnbcipa9klf12i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDpfukgDHbbAHv21uX5xts7SnD7cFVhLLE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>741538105747</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.parth.Flash-Chat</string>
+	<key>PROJECT_ID</key>
+	<string>chatter-1e2fc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatter-1e2fc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:741538105747:ios:bc59e9f90aa6da2e53c066</string>
+	<key>DATABASE_URL</key>
+	<string>https://chatter-1e2fc.firebaseio.com</string>
+</dict>
+</plist>
